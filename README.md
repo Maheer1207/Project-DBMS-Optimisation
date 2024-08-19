@@ -1,16 +1,18 @@
-# DBMS Optimisation
+# DBMS Optimization
 
-This project was a part of Database and File management course work. The main goal of the project was to implement SQL for four different scenarios, thorough Python programming language. Each of the scenario's are tested in all three optimisation level, uninformed, self-optimized, and user-optimized. Those optimisations and queries were implemented on three different set of database. Following that, data data visualisation were generated of those results. 
+## Project Overview
 
-## How it works
+This project was undertaken as part of the Database and File Management coursework. The primary objective was to implement SQL queries for four distinct scenarios using the Python programming language. Each scenario was tested under three different optimization levels: uninformed, self-optimized, and user-optimized. These optimizations and queries were executed on three separate database sets. Subsequently, data visualizations were generated to illustrate the results of these optimizations.
 
-Initially, a Python script is ran to extract the three sets database of the given text file. Then, on each of the data sets, all four queries are implemented with all three types of optimisations. Then a bar chart, data visualization, is generated of those opimisations on the data sets of each queries.
+## How It Works
 
-## Tools Implemented or Playing a Key Role:
+The process begins with running a Python script to extract three database sets from a provided text file. For each dataset, the four SQL queries are executed under all three types of optimization. After executing the queries, bar charts are generated to visualize the performance of these optimizations across the different datasets.
 
-1. Python: As a script to extract the database, and also to run queries of those database.
-2. SQL: To write the queries for all the scenarios.
+## Tools and Technologies
 
-## Steps to setup the environment
+- **Python**: Used for scripting to extract the databases and execute SQL queries.
+- **SQL**: Employed to write and execute the queries for all scenarios.
 
-The project doesn't require any setup, the python script for the query are ready to run. Hoever, due to restrications of the course, I had to remove the source file from which the data base were genrated using the python script.
+## Environment Setup
+
+No specific setup is required for this project, as the Python scripts for the queries are ready to run. However, due to course restrictions, the source file from which the databases were generated using the Python script has been removed.
